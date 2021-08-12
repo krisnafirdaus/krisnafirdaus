@@ -6,5 +6,5 @@
 💬 Ask me about Web Development
 📫 How to reach me: krisnafirdaus@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisnafirdaus&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisnafirdaus&show_icons=true&theme=dark)
 
