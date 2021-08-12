@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Krisna 👋
 
 - 🔭 I’m currently working on Moladin as Frontend Developer
 - 🌱 I’m currently learning React, Redux, Typescript, Nodejs and Golang
