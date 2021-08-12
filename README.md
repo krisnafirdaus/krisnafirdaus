@@ -5,3 +5,6 @@
 👯 I’m looking to collaborate on Project Open Source, Freelance, Part Time
 💬 Ask me about Web Development
 📫 How to reach me: krisnafirdaus@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisnafirdaus&hide=contribs,prs)
+
