@@ -8,5 +8,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisnafirdaus&show_icons=true&theme=tokyonight&border_color=141E61)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krisnafirdaus&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=krisnafirdaus&theme=radical)](https://git.io/streak-stats)
 
