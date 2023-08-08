@@ -1,6 +1,5 @@
 ### Hi there, I'm Krisna 👋
 
-- 🔭 I’m currently working on Govtech Procurement as Software Engineer
 - 🌱 I’m currently learning React, Redux, Typescript, Nodejs and Golang
 - 👯 I’m looking to collaborate on Project Open Source, Freelance, Part Time
 - 💬 Ask me about Web Development
