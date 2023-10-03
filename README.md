@@ -1,6 +1,6 @@
 ### Hi there, I'm Krisna 👋
 
-- 💼 I had experience more than 5 years as Software Engineer
+- 💼 I had experience more than 6 years as Software Engineer
 - 🌱 I’m currently learning React, Redux, Typescript, Nodejs and Golang
 - 👯 I’m looking to collaborate on Project Open Source, Freelance, Part Time
 - 💬 Ask me about Web Development
