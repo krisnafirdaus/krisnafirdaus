@@ -1,6 +1,6 @@
 ### Hi there, I'm Krisna 👋
 
-- 💼 I had experience more than 10 years as Software Engineer Web and Mobile
+- 💼 I had experience more than 6 years as Software Engineer Web and Mobile
 - 🌱 I’m currently learning ReactJs, NextJs, VueJs, NuxtJs, Flutter, Typescript, Nodejs and Golang
 - 👯 I’m looking to collaborate on Project Open Source, Freelance, Part Time
 - 💬 Ask me about Web & Mobile Development
