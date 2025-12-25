@@ -4,10 +4,10 @@
 Senior Full Stack Developer with **6+ years** building scalable web applications, mobile platforms, and enterprise solutions. Specialized in modern JavaScript/TypeScript ecosystems with proven expertise in system architecture, performance optimization, and technical mentorship.
 
 ## 💼 Current Focus
+
 - 🏢 **Independent Software Consultant** – Helping startups & enterprises build robust technical solutions
 - - 🎓 **Technical Instructor** – Teaching 500+ students full-stack development across premium platforms
   - - 🔧 **System Design & Architecture** – Designing scalable microservices and monorepo architectures
-   
     - ## 🚀 Tech Stack
     - **Frontend:** React.js | Next.js | Vue.js | TypeScript | Tailwind CSS | Storybook | HTML5 | CSS3
     - **Backend:** Node.js | Golang | Express.js | .NET | GraphQL | RESTful APIs
