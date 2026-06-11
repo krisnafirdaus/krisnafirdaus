@@ -40,6 +40,5 @@ Senior Full Stack Developer with 6+ years building scalable web applications, mo
 - LinkedIn: https://linkedin.com/in/krisnafirdaus
 - Portfolio: https://krisnafirdaus.dev
 - Email: krisnafirdaus@gmail.com
-- Phone: +62 815 2043 3555
 
 **Open to:** Consulting opportunities, technical partnerships, collaboration with founders & early-stage startups, freelance projects.
